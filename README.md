@@ -1,6 +1,6 @@
 # Portfolio App
-- Created a portfolio app using jetpack compose
-- It will show the developer profile and also list of his projects 
+- Created a portfolio app using Jetpack compose
+- It will show the developer's profile and also the list of his projects
 ---
 # Screenshots
 ![image1](https://github.com/abhineshchandra1234/Portfolio_App_JetPack_Compose/blob/master/app/src/main/res/drawable/image_1.png)
